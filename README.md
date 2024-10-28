@@ -1,10 +1,10 @@
 # Glacial par Audrey Dandurand
 ## Concept
+#### Objectif
+L'objectif est de sensibiliser le public face aux enjeux du réchauffement climatique et de la perte de faune.
+
+#### Idée
 Glacial est une installation interactive formée de projections vidéos sur les murs et sur le plancher. Celle-ci représente l'environnement glacial de l'Antartique et elles sont formées d'animations 3D.
-
-Un glacier est présenté sur le sol par une projection et une ambiance sonore est jouée dans la salle. Le visiteur est amené à se déplacer dans l'espace et à survivre face à la fonte des glaces. Tout d'abord, il sera amené à se placer sur le glacier. Après un certain moment, la glace craquera et le visiteur devra se déplacer pour survivre. Les déclenchements de la fonte de glace seront effectués par la position des visiteurs dans l'espace et ceux-ci seront accompagnés de plusieurs sons. Tant que le visiteur ne sera pas dans un espace ciblé, il restera en vie sur le glacier. S'il sort du glacier, ce sera la fin pour lui. 
-
-Dès que les visiteurs sont tous morts, la projection du sol devient de plus en plus foncée comme si l'animal coulait au fond de l'eau. Les lumières deviennent elles aussi bleu foncé. Un message apparait sur les murs pour sensibiliser le public face au réchauffement climatique.
 
 Il n'y a aucun moyen de gagner le jeu.
 
@@ -17,13 +17,29 @@ La salle a une ambiance bleutée durant l'expérience.
 |  ![experience-board-00001](https://github.com/user-attachments/assets/284c73e5-7a77-4c94-8029-a476dcf472c2) |  ![experience-board-00002](https://github.com/user-attachments/assets/01a23ccd-6344-4e7a-8572-1ab854449b30)   |
 | -------- | ------- |
 
-## Objectif
-L'objectif est de sensibiliser le public face aux enjeux du réchauffement climatique et de la perte de faune.
 
-## Motivations 
-La technologie permet de faire réfléchir le public. Ce sujet est important, puisque notre futur en sera impacté.
+#### Références visuelles
+Une palette de couleur bleutée a été choisie pour soutenir le thème de la fonte des glaciers. Celle-ci va s'appliquer autant à la lumière que les animations 3D.
+
+Les images visuelles auront un aspect plus réaliste pour sensibiliser davantage le public cible.
+
+![planche_inspiration](https://github.com/user-attachments/assets/01781df8-59d5-48ff-80be-104d2bf0c87a)
+
+Les expériences interactives présentées démontrent la projection à 360 degrés ainsi que la projection sur le sol. Dans les images d'exposition interactive, nous pouvons apercevoir sur le sol une vue du dessus et sur le mur, une vision de face. Ce principe est ce qui est voulu pour l'oeuvre Glacial.
+
+#### Références sonores
+Les ambiances permettent de bien représenter le milieu dans lequel sont plongés le public.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xdWXvurWb2U?si=Y4n-GHaK9mWUAcEd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ltkhJhNo6a8?si=_nwkhdPDrkjOinOO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Scénario interactif
+
+Un glacier est présenté sur le sol par une projection et une ambiance sonore est jouée dans la salle. Le visiteur est amené à se déplacer dans l'espace et à survivre face à la fonte des glaces. Tout d'abord, il sera amené à se placer sur le glacier. Après un certain moment, la glace craquera et le visiteur devra se déplacer pour survivre. Les déclenchements de la fonte de glace seront effectués par la position des visiteurs dans l'espace et ceux-ci seront accompagnés de plusieurs sons. Tant que le visiteur ne sera pas dans un espace ciblé, il restera en vie sur le glacier. S'il sort du glacier, ce sera la fin pour lui. À ce moment, une lumière s'allumera et teintera la pièce d'un rouge foncé durant quelques secondes. 
+
+Dès que les visiteurs sont tous morts, la projection du sol devient de plus en plus foncée comme si l'animal coulait au fond de l'eau. Les lumières deviennent elles aussi bleu foncé. Un message apparait sur les murs pour sensibiliser le public face au réchauffement climatique.
+
 ```mermaid
 graph TD;
     Interaction-->Lumières;
@@ -43,27 +59,6 @@ graph TD;
     Survie-->Interaction;
     Mort-->Veille[Mode de veille];
 ```
-
-## Planche d'ambiances visuelles
-![planche_inspiration](https://github.com/user-attachments/assets/01781df8-59d5-48ff-80be-104d2bf0c87a)
-
-
-## Planche d'ambiances sonores
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xdWXvurWb2U?si=Y4n-GHaK9mWUAcEd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ltkhJhNo6a8?si=_nwkhdPDrkjOinOO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-## Références artistiques
-#### L'esthétique et le design
-Une palette de couleur bleutée a été choisie pour soutenir le thème de la fonte des glaciers. Celle-ci va s'appliquer autant à la lumière que les animations 3D.
-
-Les images visuelles auront un aspect plus réaliste pour sensibiliser davantage le public cible.
-
-#### Choix de références visuelles
-Les expériences interactives présentées démontrent la projection à 360 degrés ainsi que la projection sur le sol. Dans les images d'exposition interactive, nous pouvons apercevoir sur le sol une vue du dessus et sur le mur, une vision de face. Ce principe est ce qui est voulu pour l'oeuvre Glacial.
-
-#### Choix de références sonores
-Les ambiances permettent de bien représenter le milieu dans lequel sont plongés le public.
 
 ## Support médiatique
 Divers médias sont utilisés pour cette installation.
