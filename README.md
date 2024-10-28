@@ -66,6 +66,12 @@ graph TD;
 ## Synoptique
 #### Schéma technique
 
+
+Les différents signaux:
+- Audio (MIDI)
+- Vidéo (HDMI)
+- Lumières (DMX)
+
 | Système de communication  | Logiciel    | Interaction |
 | -------- | ------- |------- |
 | Protocole MIDI  |  LoopMidi  | QLC+ et Plugdata  |
