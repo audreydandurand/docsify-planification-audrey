@@ -65,7 +65,20 @@ graph TD;
 
 ## Synoptique
 #### Schéma technique
-
+```mermaid
+graph TD;
+    Ordinateur[Contrôle central - Ordinateur]-->DMX[USB DMX];
+    Ordinateur[Contrôle central - Ordinateur]-->CarteSon[Carte de son];
+    Ordinateur[Contrôle central - Ordinateur]-->HDMI;
+    Ordinateur[Contrôle central - Ordinateur]-->Kinect[Kinect - Capteur];
+    Kinect[Kinect - Capteur]-->Ordinateur[Contrôle central - Ordinateur];
+    DMX[USB DMX]-->Lumière;
+    CarteSon[Carte de son]-->Haut-parleur;
+    Haut-parleur-->Audio[Sortie audio];
+    HDMI-->Projecteurs;
+    Projecteurs-->Projection[Projection vidéo];
+   
+```
 
 Les différents signaux:
 - Audio (MIDI)
