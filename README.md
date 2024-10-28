@@ -1,9 +1,9 @@
 # Glacial par Audrey Dandurand
 ## Concept
-#### Objectif
+### Objectif
 L'objectif est de sensibiliser le public face aux enjeux du réchauffement climatique et de la perte de faune.
 
-#### Idée
+### Idée
 Glacial est une installation interactive formée de projections vidéos sur les murs et sur le plancher. Celle-ci représente l'environnement glacial de l'Antartique et elles sont formées d'animations 3D.
 
 Il n'y a aucun moyen de gagner le jeu.
@@ -18,7 +18,7 @@ La salle a une ambiance bleutée durant l'expérience.
 | -------- | ------- |
 
 
-#### Références visuelles
+### Références visuelles
 Une palette de couleur bleutée a été choisie pour soutenir le thème de la fonte des glaciers. Celle-ci va s'appliquer autant à la lumière que les animations 3D.
 
 Les images visuelles auront un aspect plus réaliste pour sensibiliser davantage le public cible.
@@ -27,7 +27,7 @@ Les images visuelles auront un aspect plus réaliste pour sensibiliser davantage
 
 Les expériences interactives présentées démontrent la projection à 360 degrés ainsi que la projection sur le sol. Dans les images d'exposition interactive, nous pouvons apercevoir sur le sol une vue du dessus et sur le mur, une vision de face. Ce principe est ce qui est voulu pour l'oeuvre Glacial.
 
-#### Références sonores
+### Références sonores
 Les ambiances permettent de bien représenter le milieu dans lequel sont plongés le public.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xdWXvurWb2U?si=Y4n-GHaK9mWUAcEd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -60,6 +60,28 @@ graph TD;
     Mort-->Veille[Mode de veille];
 ```
 
+## Scénarimage
+
+
+## Synoptique
+### Schéma technique
+
+| Système de communication  | Logiciel    | Interaction |
+| -------- | ------- |------- |
+| Protocole MIDI  |  LoopMidi  | QLC+ et Plugdata  |
+| Protocole DMX  |  QLC+  | Lumiere et logiciel  |
+
+### Flux de données
+
+## Plantation
+
+### Emplacement des dispositifs
+![materiel](https://github.com/user-attachments/assets/03bff45a-1860-4130-9377-fe791c721f28)
+
+### Circulation des visiteurs
+
+### Gestion des câblages
+
 ## Support médiatique
 Divers médias sont utilisés pour cette installation.
 
@@ -71,12 +93,13 @@ Divers médias sont utilisés pour cette installation.
 | Capteur de mouvement    |  Celui-ci permet l'interactivité de Glacial.    |
 
 ## Matériel
-- 1 Kinect
-- 6 Lumières American DJ 5p Hex
-- 5 Projecteurs
-- 4 Haut-parleurs
 
-![materiel](https://github.com/user-attachments/assets/03bff45a-1860-4130-9377-fe791c721f28)
+| Matériel  | Raison |
+| -------- | ------- |
+| 1 Kinect  |     |
+| 6 Lumières American DJ 5p Hex | Ambiance lumineuse  |
+| 5 Projecteurs | Projections visuelles sur les 4 murs et le sol  |
+| 4 Haut-parleurs    |  Sortie de l'audio à chaque coin de la salle  |
 
 
 ## Logiciel
@@ -89,12 +112,8 @@ Divers médias sont utilisés pour cette installation.
 | QLC+    | Création des scènes lumineuses    |
 | Plugdata    | Création d'un lfo pour modifier les couleurs des lumières    |
 
-| Système de communication  | Logiciel    | Interaction |
-| -------- | ------- |------- |
-| Protocole MIDI  |  LoopMidi  | QLC+ et Plugdata  |
-| Protocole DMX  |  QLC+  | Lumiere et logiciel  |
 
-## Référence
+## Références
 - [Pinterest](https://www.pinterest.com/)
 - [Funky Forest](https://www.design-io.com/projects/funkyforest)
 - [Frameless](https://frameless.com/the-experience/the-world-around-us/)
