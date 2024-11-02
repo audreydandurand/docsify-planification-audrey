@@ -61,6 +61,9 @@ graph TD;
 ```
 
 ## Scénarimage
+#### Visualisation des séquences
+Projection visuelle sur le sol
+![scenarimage 2024-11-02 11 17 44](https://github.com/user-attachments/assets/2c6f3cd9-2bfb-4869-9b35-e9e3fface3e2)
 
 
 ## Synoptique
