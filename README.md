@@ -65,6 +65,24 @@ graph TD;
 Projection visuelle sur le sol
 ![scenarimage 2024-11-02 11 17 44](https://github.com/user-attachments/assets/2c6f3cd9-2bfb-4869-9b35-e9e3fface3e2)
 
+#### Évolution visuelle et narrative
+
+|  Arrivé du joueur | Interactivité    |
+| -------- | ------- |
+| ![scenarimage-board-00002](https://github.com/user-attachments/assets/fcfcd2f9-c7f2-483a-a1d1-35155dc73658)  |  ![scenarimage-board-00003](https://github.com/user-attachments/assets/e34797f8-02fb-4ab5-bfbb-d660653a704d)  |
+
+Les différentes possibilités lors du jeu...
+| Mort  | Survie    |
+| -------- | ------- |
+| ![scenarimage-board-00004](https://github.com/user-attachments/assets/95a13424-7c55-4367-913a-e641d6c7f244)  |  ![scenarimage-board-00005](https://github.com/user-attachments/assets/315f251f-d9a9-4d4d-8b3f-08d84d2189ab)  | 
+| ![scenarimage-board-00006](https://github.com/user-attachments/assets/51cae7c8-622a-437b-a5b2-8ed90dc9401e)  |  ![scenarimage-board-00007](https://github.com/user-attachments/assets/500612d2-9d3b-46be-a841-ffdf0cd9cc31)  |
+| ![scenarimage-board-00008](https://github.com/user-attachments/assets/b28d9b48-000d-48a5-9984-3c95ac41ecc3)  |  ![scenarimage-board-00009](https://github.com/user-attachments/assets/9ea1bf11-6f07-4a65-b4d1-4f3edddbc4fb)  | 
+| ![scenarimage-board-00011](https://github.com/user-attachments/assets/a28529ab-6a51-410a-b9fb-d64d54232bf2)  |  ![scenarimage-board-00012](https://github.com/user-attachments/assets/a6e7352a-33a6-4547-a3b1-5914858cfc62)  |
+| ![scenarimage-board-00013](https://github.com/user-attachments/assets/0c2d897b-3824-4087-bc0a-ac5393cddcd6)  | ![scenarimage-board-00014](https://github.com/user-attachments/assets/fa1250bd-37fc-413d-a8f1-419d14b8f6d1)   | 
+| ![scenarimage-board-00016](https://github.com/user-attachments/assets/3e30a571-92f9-4c53-9b81-f024902f381b)  |  ![scenarimage-board-00015](https://github.com/user-attachments/assets/23e1326f-1915-4461-8558-9d97168db4a5)  |
+| ![scenarimage-board-00017](https://github.com/user-attachments/assets/99812391-4da0-4d5a-8e59-76b52d0fc547)  |  ![scenarimage-board-00018](https://github.com/user-attachments/assets/bd41b17c-5e7b-4de4-a973-fbdfa2937794)  | 
+| ![scenarimage-board-00020](https://github.com/user-attachments/assets/0de2d959-3fdb-4eda-99fb-a69d9caf1779)  |  ![scenarimage-board-00022](https://github.com/user-attachments/assets/7892f765-9a1d-4851-864c-cfbbed602639)  |
+| ![scenarimage-board-00024](https://github.com/user-attachments/assets/9b8e640f-ce5e-4165-83fc-8af964b1592a)  |  ![scenarimage-board-00023](https://github.com/user-attachments/assets/4fab18cf-b5d5-49e5-8eb1-cc35cfb7c88a)  | 
 
 ## Synoptique
 #### Schéma technique
