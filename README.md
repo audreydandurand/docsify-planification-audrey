@@ -72,6 +72,7 @@ Projection visuelle sur le sol
 | ![scenarimage-board-00002](https://github.com/user-attachments/assets/fcfcd2f9-c7f2-483a-a1d1-35155dc73658)  |  ![scenarimage-board-00003](https://github.com/user-attachments/assets/e34797f8-02fb-4ab5-bfbb-d660653a704d)  |
 
 Les différentes possibilités lors du jeu...
+
 | Mort  | Survie    |
 | -------- | ------- |
 | ![scenarimage-board-00004](https://github.com/user-attachments/assets/95a13424-7c55-4367-913a-e641d6c7f244)  |  ![scenarimage-board-00005](https://github.com/user-attachments/assets/315f251f-d9a9-4d4d-8b3f-08d84d2189ab)  | 
