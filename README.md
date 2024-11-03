@@ -117,7 +117,7 @@ Les différents signaux:
 ## Plantation
 
 #### Emplacement des dispositifs
-![plantation_haut](https://github.com/user-attachments/assets/dd682a84-0332-4dec-9eda-4345ac6ae2eb)
+![plantation_haut (1)](https://github.com/user-attachments/assets/0886e819-e426-4015-8d23-596d3af79b66)
 ![plantation_cote](https://github.com/user-attachments/assets/8df5b4a9-ac67-4c5a-a3d6-37059e327374)
 ![plantation_3d](https://github.com/user-attachments/assets/b3e559b8-2a1e-44a3-bfe1-5da9a0bb14bf)
 
