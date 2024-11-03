@@ -117,6 +117,8 @@ Les différents signaux:
 ## Plantation
 
 #### Emplacement des dispositifs
+![plantation](https://github.com/user-attachments/assets/4233f7ff-ce54-40ec-a3ad-80096ba371ba)
+
 ![materiel](https://github.com/user-attachments/assets/03bff45a-1860-4130-9377-fe791c721f28)
 
 #### Circulation des visiteurs
