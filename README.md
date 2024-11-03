@@ -117,13 +117,16 @@ Les différents signaux:
 ## Plantation
 
 #### Emplacement des dispositifs
-![plantation](https://github.com/user-attachments/assets/4233f7ff-ce54-40ec-a3ad-80096ba371ba)
-
-![materiel](https://github.com/user-attachments/assets/03bff45a-1860-4130-9377-fe791c721f28)
+![plantation_haut](https://github.com/user-attachments/assets/dd682a84-0332-4dec-9eda-4345ac6ae2eb)
+![plantation_cote](https://github.com/user-attachments/assets/8df5b4a9-ac67-4c5a-a3d6-37059e327374)
+![plantation_3d](https://github.com/user-attachments/assets/b3e559b8-2a1e-44a3-bfe1-5da9a0bb14bf)
 
 #### Circulation des visiteurs
+![plantation_interactivite](https://github.com/user-attachments/assets/26abccec-eec9-4a99-9371-ccabec0a4871)
+
 
 #### Gestion des câblages
+Les câblages seront dissimulés dans le plafond.
 
 ## Support médiatique
 Divers médias sont utilisés pour cette installation.
