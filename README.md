@@ -85,6 +85,10 @@ Les différentes possibilités lors du jeu...
 | ![scenarimage-board-00020](https://github.com/user-attachments/assets/0de2d959-3fdb-4eda-99fb-a69d9caf1779)  |  ![scenarimage-board-00022](https://github.com/user-attachments/assets/7892f765-9a1d-4851-864c-cfbbed602639)  |
 | ![scenarimage-board-00024](https://github.com/user-attachments/assets/9b8e640f-ce5e-4165-83fc-8af964b1592a)  |  ![scenarimage-board-00023](https://github.com/user-attachments/assets/4fab18cf-b5d5-49e5-8eb1-cc35cfb7c88a)  |
 
+|  Fin du jeu |     |      |       |
+| -------- | ------- | ------- |  ------- |
+| ![scenarimage-board-00026](https://github.com/user-attachments/assets/54b34154-2bb4-4df3-b706-58b2c41721c5)  | ![fin_eau](https://github.com/user-attachments/assets/a943677f-b83d-45e3-ab0e-7738a2f4c602)  |  ![fin_eau_fonce](https://github.com/user-attachments/assets/2324bfa8-2e7a-4bb1-a6b1-bf8bf664e420)  | ![fin_slogan](https://github.com/user-attachments/assets/06b62b34-1060-4914-b318-8f4233397f9a)   |
+
 ## Synoptique
 #### Schéma technique
 ```mermaid
