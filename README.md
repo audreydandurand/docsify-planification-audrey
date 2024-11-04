@@ -127,7 +127,7 @@ Les projecteurs sont situés au centre du plafond autour de la kinect et pointen
 
 La kinect est tout au centre du plafond et pointe vers le sol.
 
-![plantation_haut](https://github.com/user-attachments/assets/e9bf32eb-754b-4e3d-8394-4c01f756f1c4)
+![plantation_haut](https://github.com/user-attachments/assets/7705e676-0093-4268-8cb2-696c5fd2104a)
 ![plantation_cote](https://github.com/user-attachments/assets/8df5b4a9-ac67-4c5a-a3d6-37059e327374)
 ![plantation_3d](https://github.com/user-attachments/assets/b3e559b8-2a1e-44a3-bfe1-5da9a0bb14bf)
 
