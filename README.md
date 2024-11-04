@@ -137,7 +137,8 @@ La kinect est tout au centre du plafond et pointe vers le sol.
 
 #### Gestion des câblages
 Les câblages seront placés au plafond.
-![cables](https://github.com/user-attachments/assets/af2baee8-6876-407b-8686-635831774481)
+![cablage_gestion](https://github.com/user-attachments/assets/491be3b1-23ad-4f98-96d8-b1264dd0907b)
+
 
 
 ## Support médiatique
