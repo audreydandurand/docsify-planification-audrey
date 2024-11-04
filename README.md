@@ -172,7 +172,7 @@ Divers médias sont utilisés pour cette installation.
 | Plugdata    | Création d'un lfo pour modifier les couleurs des lumières (palette de couleur bleutée)   |
 
 
-## Références
+## Références visuelles
 - [Pinterest](https://www.pinterest.com/)
 - [Funky Forest](https://www.design-io.com/projects/funkyforest)
 - [Frameless](https://frameless.com/the-experience/the-world-around-us/)
