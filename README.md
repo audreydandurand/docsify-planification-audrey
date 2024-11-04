@@ -162,7 +162,7 @@ Divers médias sont utilisés pour cette installation.
 | Reaper | Montage sonore     |
 | Maya    | Animation 3D    |
 | QLC+    | Création des scènes lumineuses    |
-| Plugdata    | Création d'un lfo pour modifier les couleurs des lumières    |
+| Plugdata    | Création d'un lfo pour modifier les couleurs des lumières (palette de couleur bleutée)   |
 
 
 ## Références
