@@ -117,13 +117,13 @@ Les différents signaux:
 #### Emplacement des dispositifs
 Les haut-parleurs sont situés à chaque coin de la pièce pour bien entendre l'ambiance sonore.
 
-6 lumières amènent l'ambiance bleutée à la salle.
+6 lumières placées au plafond amènent l'ambiance bleutée à la salle.
 
 Les projecteurs sont situés au centre du plafond autour de la kinect et pointent tous vers un mur ou le sol.
 
 La kinect est tout au centre du plafond et pointe vers le sol.
 
-![plantation_haut (1)](https://github.com/user-attachments/assets/0886e819-e426-4015-8d23-596d3af79b66)
+![plantation_haut](https://github.com/user-attachments/assets/e9bf32eb-754b-4e3d-8394-4c01f756f1c4)
 ![plantation_cote](https://github.com/user-attachments/assets/8df5b4a9-ac67-4c5a-a3d6-37059e327374)
 ![plantation_3d](https://github.com/user-attachments/assets/b3e559b8-2a1e-44a3-bfe1-5da9a0bb14bf)
 
