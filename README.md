@@ -155,7 +155,7 @@ Divers médias sont utilisés pour cette installation.
 
 | Matériel  | Raison |
 | -------- | ------- |
-| 1 Kinect  |     |
+| 1 Kinect  | Permettre au système de visualiser où se trouve les joueurs |
 | 6 Lumières American DJ 5p Hex | Ambiance lumineuse  |
 | 5 Projecteurs | Projections visuelles sur les 4 murs et le sol  |
 | 4 Haut-parleurs    |  Sortie de l'audio à chaque coin de la salle  |
