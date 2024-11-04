@@ -36,7 +36,7 @@ Les ambiances permettent de bien représenter le milieu dans lequel sont plongé
 
 ## Scénario interactif
 
-Un glacier est présenté sur le sol par une projection et une ambiance sonore est jouée dans la salle. Le visiteur est amené à se déplacer dans l'espace et à survivre face à la fonte des glaces. Tout d'abord, il sera amené à se placer sur le glacier. Après un certain moment, la glace craquera et le visiteur devra se déplacer pour survivre. Les déclenchements de la fonte de glace seront effectués par la position des visiteurs dans l'espace et ceux-ci seront accompagnés de plusieurs sons. Tant que le visiteur ne sera pas dans un espace ciblé, il restera en vie sur le glacier. S'il sort du glacier, ce sera la fin pour lui. À ce moment, une lumière s'allumera et teintera la pièce d'un rouge foncé durant quelques secondes. 
+Un glacier est présenté sur le sol par une projection et une ambiance sonore est jouée dans la salle. Le visiteur est amené à se déplacer dans l'espace et à survivre face à la fonte des glaces. Tout d'abord, il sera amené à se placer sur le glacier. Après un certain moment, la glace craquera et le visiteur devra se déplacer pour survivre. Les déclenchements de la fonte de glace seront effectués par la position des visiteurs dans l'espace et ceux-ci seront accompagnés de plusieurs sons. Tant que le visiteur ne sera pas dans un espace ciblé, il restera en vie sur le glacier. S'il sort du glacier, ce sera la fin pour lui. À ce moment, une lumière s'allumera et teintera la pièce d'un rouge foncé durant quelques secondes, et un cercle rouge apparaîtra sur le sol où que la personne est morte.
 
 Dès que les visiteurs sont tous morts, la projection du sol devient de plus en plus foncée comme si l'animal coulait au fond de l'eau. Les lumières deviennent elles aussi bleu foncé. Un message apparait sur les murs pour sensibiliser le public face au réchauffement climatique.
 
@@ -103,20 +103,22 @@ graph TD;
 ```
 
 Les différents signaux:
-- Audio (MIDI)
-- Vidéo (HDMI)
-- Lumières (DMX)
+- Audio 
+- Vidéo 
+- Lumières 
 
 | Système de communication  | Logiciel    | Interaction |
 | -------- | ------- |------- |
 | Protocole MIDI  |  LoopMidi  | QLC+ et Plugdata  |
 | Protocole DMX  |  QLC+  | Lumiere et logiciel  |
 
-#### Flux de données
-
 ## Plantation
 
 #### Emplacement des dispositifs
+Les haut-parleurs sont situés à chaque coin de la pièce pour bien entendre l'ambiance sonore.
+6 lumières amènent l'ambiance bleutée à la salle.
+Les projecteurs sont situés au centre du plafond autour de la kinect et pointent tous vers un mur ou le sol.
+La kinect est tout au centre du plafond et pointe vers le sol.
 ![plantation_haut (1)](https://github.com/user-attachments/assets/0886e819-e426-4015-8d23-596d3af79b66)
 ![plantation_cote](https://github.com/user-attachments/assets/8df5b4a9-ac67-4c5a-a3d6-37059e327374)
 ![plantation_3d](https://github.com/user-attachments/assets/b3e559b8-2a1e-44a3-bfe1-5da9a0bb14bf)
